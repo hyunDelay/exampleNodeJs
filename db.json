@@ -1,0 +1,51 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is..."
+    },
+    {
+      "title": "javascript",
+      "body": "javascript is...",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "body": "React is...",
+      "id": 4
+    },
+    {
+      "title": "next.js",
+      "body": "nextjs ...",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World"
+    },
+    {
+      "id": 2,
+      "title": "JSON Server"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment",
+      "postId": 2
+    }
+  ]
+}
